@@ -1,15 +1,12 @@
 #include "main.h"
 
 /**
- *  * main - Entry point
+ *  * main - Starrting Point
  *   *
- *    * Return: Always 0 (Success)
+ *    * Return: nothing, return void
  *     */
-
 int main(void)
-
 {
-
 	putchar('');
 	_putchar('p');
 	_putchar('u');
@@ -21,5 +18,4 @@ int main(void)
 	_putchar('\n');
 
 	return (0);
-
 }
