@@ -8,4 +8,4 @@
 int add(int r, int d)
 {
 	return (r + d);
-}i
+}
